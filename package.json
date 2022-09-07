@@ -1,0 +1,29 @@
+{
+  "name": "projettournoi",
+  "version": "1.0.0",
+  "description": "express with firebase functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CAbdu/projetTournoi.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "firebase"
+  ],
+  "author": "Abdu Chaib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CAbdu/projetTournoi/issues"
+  },
+  "homepage": "https://github.com/CAbdu/projetTournoi#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
